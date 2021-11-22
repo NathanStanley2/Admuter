@@ -12,3 +12,7 @@ PyCaw and Selenium
 
 You will need the Chrome Driver installed
 
+Make sure that the chromedriver you have matched to your Chrome version, you can check this by going to chrome settings and about Chrome. 
+
+Make sure that the chrome driver path is "C:\Program Files (x86)\chromedriver.exe"
+
